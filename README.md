@@ -11,7 +11,7 @@ This project includes buiding *Sales Insights Report* of Awesome Chocolates Comp
     - Finding Sales by Country and many other analysis.
     - Building Charts and Plots and *Pivot Tables* in Excel
 - *Building a Dashboard* - using *PowerBI* to showcase the Sales Insights of the company.
-    - Uses DAX functions for Data Cleaning and Creating Measues to build charts.
+    - Used DAX functions for Data Cleaning and Creating Measues to build charts.
 
 ## Dashboard
 ![](Images/Sales_Insights_Dashboard.PNG)
