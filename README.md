@@ -1,4 +1,4 @@
-# Awesome Chocolates - Sales Insights (Data Cleaning, EDA using Excel and Dashboard)
+# Awesome Chocolates - Sales Insights (Data Cleaning, EDA using Excel and building Dashboard)
 
 This project includes building *Sales Insights Report* of "Awesome Chocolates" Company.
 
