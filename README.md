@@ -14,3 +14,6 @@ This project includes buiding *Sales Insights Report* of Awesome Chocolates Comp
 
 ## Dashboard
 ![](Images/Sales_Insights_Dashboard.PNG)
+
+### Dynamic Sales Report in MS-Excel (Pivot Table)
+![](Images/Dynamic_Sales_Report.PNG)
