@@ -1,8 +1,8 @@
 # Awesome Chocolates - Sales Insights (Data Cleaning, EDA using Excel and Dashboard)
 
-This project includes buiding *Sales Insights Report* of Awesome Chocolates Company, by cleaning data in MS-Excel, EDA with Conditional Formatting, Pivot Tables and Charts and building a Dashboard in PowerBI.
+This project includes building *Sales Insights Report* of "Awesome Chocolates" Company.
 
-- *Collecting Sales Revenue Data* - of Awesome Chocolates Company.
+- *Collecting Sales Revenue Data* - of Awesome Chocolates.
 - *Cleaning the Data Set* - using Excel functions (removing/replacing null values, dropping unnecessary columns, renaming columns to make sense to the reader)
 - *Exploratory Data Analysis (EDA)* - 
     - Finding Total Sales Revenue and Profit made by company.
